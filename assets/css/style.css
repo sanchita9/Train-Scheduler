@@ -1,0 +1,37 @@
+.jumbotron {
+	background-color: brown;
+	color: white;
+}
+
+h1 {
+	font-size: 18px;
+	color: white;
+	text-align: center;
+}
+
+h3 {
+	font-size: 18px;
+	color: white;
+	text-align: center;
+}
+
+#panel-title {
+	text-align: left;
+	font-size: 14px;
+	border-width: 1px;
+	border-color: blue;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#trainTable {
+	margin-left: 20px;
+}
+
+#addTrainButton {
+	margin-left: 20px;
+}
+
+.form-group {
+	margin-left: 20px;
+}
